@@ -1,0 +1,8 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { --bg:#0f172a; --panel:#0b1220; --muted:#94a3b8; --accent:#60a5fa; }
+html,body,#root,#__next { height:100%; }
+body { background: linear-gradient(180deg,#071129 0%,#071129 100%); color:#e6eef8; }
